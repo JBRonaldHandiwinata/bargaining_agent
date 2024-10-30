@@ -1,5 +1,13 @@
 # bargaining_agent
-Implementation Q-learning for price negotiation
+Implementation Q-learning algorithm for price negotiation
+<br/>
+formula: <br/>
+![alt text](https://github.com/JBRonaldHandiwinata/bargaining_agent/blob/formula.png?raw=true)
+
+
+output: <br/>
+![alt text](https://github.com/JBRonaldHandiwinata/bargaining_agent/blob/output.png?raw=true)
+
 
 ## To Do
 1. Install dependency
