@@ -167,3 +167,5 @@ main_bk.py
 *.npy
 test.py
 q.py
+.idea
+.gradio
