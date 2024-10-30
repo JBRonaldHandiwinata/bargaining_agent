@@ -2,11 +2,11 @@
 Implementation Q-learning algorithm for price negotiation
 <br/>
 formula: <br/>
-![alt text](https://github.com/JBRonaldHandiwinata/bargaining_agent/blob/formula.png?raw=true)
+![Formula](https://github.com/JBRonaldHandiwinata/bargaining_agent/blob/master/blob/formula.png?raw=true)
 
 
 output: <br/>
-![alt text](https://github.com/JBRonaldHandiwinata/bargaining_agent/blob/output.png?raw=true)
+![Sample Output](https://github.com/JBRonaldHandiwinata/bargaining_agent/blob/master/blob/output.png?raw=true)
 
 
 ## To Do
