@@ -6,7 +6,7 @@ formula: <br/>
 
 
 output: <br/>
-![Sample Output](https://github.com/JBRonaldHandiwinata/bargaining_agent/blob/master/blob/output.png?raw=true)
+![Sample Output](https://github.com/JBRonaldHandiwinata/bargaining_agent/blob/master/blob/output_1.png?raw=true)
 
 
 ## To Do
