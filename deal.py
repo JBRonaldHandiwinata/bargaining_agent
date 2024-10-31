@@ -86,7 +86,6 @@ def negotiate_price(b, stop_event):
         time.sleep(sleep[b])
 
 
-
 if __name__ == "__main__":
     stop_event = multiprocessing.Event()
     buyers = ["Buyer_1", "Buyer_2"]
